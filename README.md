@@ -1,11 +1,11 @@
-# 🧠 ML-Basics
+#  ML-Basics
 
 This repository contains simple Machine Learning programs implemented in Python using scikit-learn.  
 The goal of this repo is to practice and understand foundational ML concepts through clean, minimal examples.
 
 ---
 
-## 🚀 Included Scripts
+##  Included Scripts
 
 ### **1. Linear Regression**
 File: `linear_regression_sklearn.py`  
@@ -26,7 +26,7 @@ File: `train_test_split_example.py`
 
 ---
 
-## 📘 Concepts Practiced
+##  Concepts Practiced
 - Train/Test split  
 - Linear Regression  
 - Logistic Regression  
@@ -36,19 +36,19 @@ File: `train_test_split_example.py`
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 - **Python**
 - **NumPy**
 - **scikit-learn**
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 This repository serves as my practice space for building a strong foundation in Machine Learning.  
 
 ---
 
-## 📈 Future Additions
+##  Future Additions
 - Polynomial Regression  
 - KNN Classification  
 - Decision Trees  
